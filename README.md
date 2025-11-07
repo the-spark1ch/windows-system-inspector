@@ -5,4 +5,5 @@ Required libraries for compilation:
 - GPUtil
 - py-cpuinfo
 - wmi
+
 The program is unstable on versions older than Windows 10 due to lack of WMI support
